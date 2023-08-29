@@ -1,2 +1,2 @@
 # streamlit_app
- Stock Analyzer
+This is a Stock Analyzer app. It can predict stock prices and manipulation game.
